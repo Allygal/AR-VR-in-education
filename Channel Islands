@@ -1,0 +1,6 @@
+echo "# AR-VR-in-education" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Allygal/AR-VR-in-education.git
+git push -u origin master
